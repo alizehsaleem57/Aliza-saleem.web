@@ -1,0 +1,6 @@
+{
+  "name": "PulseGrid - District Health OS",
+  "description": "Multilingual AI telemetry platform for real-time district health centre (PHC/CHC) monitoring, stock stabilization, bed grid tracking, and autonomous resource redistribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
